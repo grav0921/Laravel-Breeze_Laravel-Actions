@@ -3,7 +3,7 @@ import { Head, Link } from '@inertiajs/vue3';
 import axios from 'axios';
 import { ref } from 'vue'
 
-alert('input data provinsi dan kota -> tekan enter -> lalu ketik tombol apapun')
+alert('input data provinsi dan kota DI INDONESIA -> tekan enter -> lalu ketik tombol apapun')
 const queryProvince = ref('');
 const queryCity = ref('');
 var triggerCity = false;
